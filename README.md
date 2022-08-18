@@ -90,17 +90,17 @@ The lectures, examples and exercises require:
 
 ## Certificate
 
-1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/verify/77SF7ZRAHG2S)
-2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/verify/EYY44BAYYAGU)
-3. [Mathematics for Machine Learning: PCA](https://www.coursera.org/account/accomplishments/verify/DZGJW22HB7VZ)
-4. [Machine Learning Specialization (Final Certificate)](https://www.coursera.org/account/accomplishments/specialization/8F3W88UHF7CL)
+1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/verify/S8WAEQ2VPKDK)
+2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/verify/MGJS87FW7MSL)
+3. [Mathematics for Machine Learning: PCA]()
+4. [Machine Learning Specialization (Final Certificate)]()
 
 --------------------------------------------------------------------------------------------------------------
 
 ## References
-1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
-2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
-3. [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
+1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning)
+2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning?specialization=mathematics-machine-learning)
+3. [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning?specialization=mathematics-machine-learning)
 
 ----------------------------------------------------------------------------------------------------------------
 
