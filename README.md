@@ -39,16 +39,7 @@ At the end of this specialization you will have gained the prerequisite mathemat
 ---
 
 ## Applied Learning Project
-By the end of this Specialization, you will be ready to:
-
--Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn.
-- Build and train supervised machine learning models for prediction and binary classification tasks, including linear regression and logistic regression.
-- Build and train a neural network with TensorFlow to perform multi-class classification.
-- Apply best practices for machine learning development so that your models generalize to data and tasks in the real world.
-- Build and use decision trees and tree ensemble methods, including random forests and boosted trees.
-- Use unsupervised learning techniques for unsupervised learning: including clustering and anomaly detection.
-- Build recommender systems with a collaborative filtering approach and a content-based deep learning method.
-- Build a deep reinforcement learning model.
+Through the assignments of this specialisation you will use the skills you have learned to produce mini-projects with Python on interactive notebooks, an easy to learn tool which will help you apply the knowledge to real world problems. For example, using linear algebra in order to calculate the page rank of a small simulated internet, applying multivariate calculus in order to train your own neural network, performing a non-linear least squares regression to fit a model to a data set, and using principal component analysis to determine the features of the MNIST digits data set.
 
 -------------------------------------------------------------------------------------------------------------
 
