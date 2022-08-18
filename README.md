@@ -49,8 +49,8 @@ Through the assignments of this specialisation you will use the skills you have 
 flowchart TD
     B["fa:fa-twitter Mathematics for Machine Learning Specialization"]
     B-->C[fa:fa-ban Linear Algebra]
-    B-->D(fa:fa-spinner Multivariate Calculuc);
-    B-->E(fa:fa-camera-retro Principle Component Analysis [PCA])
+    B-->D(fa:fa-spinner Multivariate Calculus);
+    B-->E(fa:fa-camera-retro PCA)
 ```
 
 ### COURSE 1
