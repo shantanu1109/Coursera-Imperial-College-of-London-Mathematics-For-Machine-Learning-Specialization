@@ -11,7 +11,7 @@
 [A. Freddie Page](https://www.coursera.org/instructor/freddie-page),
 [Marc Peter Deisenroth](https://www.coursera.org/instructor/marc-deisenroth)*
 
-About
+# About
 
 -------------------------------------------------------------------------------------------
 
