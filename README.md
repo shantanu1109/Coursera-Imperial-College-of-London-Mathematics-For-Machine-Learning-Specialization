@@ -1,6 +1,6 @@
 -------------------------------------------------------------------------------------------
 
-<p align="center"><img width="auto" src="https://i.ytimg.com/vi/j2iC7NR7ji4/hqdefault.jpg" /></p>
+<p align="center"><img width="auto" src="https://miro.medium.com/max/1400/1*Y49veqWVzaNHNSny-JIgTw.jpeg" /></p>
 
 -------------------------------------------------------------------------------------------
 
