@@ -84,7 +84,7 @@ The lectures, examples and exercises require:
 4. Basic knowledge in python programming and numpy
 
 
-* [Mathematics for Machine Learning: PCA]()
+* [Mathematics for Machine Learning: PCA](https://github.com/shantanu1109/Coursera-Imperial-College-of-London-Mathematics-For-Machine-Learning-Specialization/tree/main/Course-3-Mathematics%20for%20Machine%20Learning:%20PCA)
 
 -------------------------------------------------------------------------------------------------------------
 
