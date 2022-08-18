@@ -1,6 +1,6 @@
 -------------------------------------------------------------------------------------------
 
-<p align="center"><img width="auto" src="https://cdn8.openculture.com/2022/06/21191516/Stanford-Deeplearning.ai-email-social-2.png" /></p>
+<p align="center"><img width="auto" src="https://i.ytimg.com/vi/j2iC7NR7ji4/hqdefault.jpg" /></p>
 
 -------------------------------------------------------------------------------------------
 
