@@ -50,7 +50,7 @@ flowchart TD
     B["fa:fa-twitter Mathematics for Machine Learning Specialization"]
     B-->C[fa:fa-ban Linear Algebra]
     B-->D(fa:fa-spinner Multivariate Calculus);
-    B-->E(fa:fa-camera-retro PCA)
+    B-->E(fa:fa-camera-retro Principle Component Analysis)
 ```
 
 ### COURSE 1
