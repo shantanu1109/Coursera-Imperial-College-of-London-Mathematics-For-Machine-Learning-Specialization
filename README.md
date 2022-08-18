@@ -93,7 +93,7 @@ The lectures, examples and exercises require:
 1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/verify/S8WAEQ2VPKDK)
 2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/verify/MGJS87FW7MSL)
 3. [Mathematics for Machine Learning: PCA]()
-4. [Machine Learning Specialization (Final Certificate)]()
+4. [Mathematics for Machine Learning Specialization (Final Certificate)]()
 
 --------------------------------------------------------------------------------------------------------------
 
