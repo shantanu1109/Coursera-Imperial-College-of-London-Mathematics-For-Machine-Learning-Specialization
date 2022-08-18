@@ -4,12 +4,14 @@
 
 -------------------------------------------------------------------------------------------
 
-# [DeepLearning.AI, Stanford University - Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?#instructors)
-*This Repository Contains Solution to the Assignments of the Machine Learning Specialization from deeplearning.ai on Coursera Taught by 
-[Andrew Ng](https://www.coursera.org/instructor/andrewng),
-[Eddy Shyu](https://www.coursera.org/instructor/eddy-shyu),
-[Aarti Bagul](https://www.coursera.org/instructor/~77736236),
-[Geoff Ladwig](https://www.coursera.org/instructor/geoff-ladwig)*
+# [Imperial College of London - Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning?)
+*This Repository Contains Solution to the Assignments of the Mathematics for Machine Learning Specialization from Imperial College of London on Coursera Taught by 
+[David Dye](https://www.coursera.org/instructor/david-dye),
+[Samuel J. Cooper](https://www.coursera.org/instructor/samuel-cooper),
+[A. Freddie Page](https://www.coursera.org/instructor/freddie-page),
+[Marc Peter Deisenroth](https://www.coursera.org/instructor/marc-deisenroth)*
+
+About
 
 -------------------------------------------------------------------------------------------
 
