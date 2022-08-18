@@ -47,10 +47,10 @@ Through the assignments of this specialisation you will use the skills you have 
 
 ```mermaid
 flowchart TD
-    B["fa:fa-twitter Machine Learning Specialization"]
-    B-->C[fa:fa-ban Supervised Machine Learning: Regression and Classification]
-    B-->D(fa:fa-spinner Advanced Learning Algorithms);
-    B-->E(fa:fa-camera-retro Unsupervised Learning, Recommenders, Reinforcement Learning)
+    B["fa:fa-twitter Mathematics for Machine Learning Specialization"]
+    B-->C[fa:fa-ban Linear Algebra]
+    B-->D(fa:fa-spinner Multivariate Calculuc);
+    B-->E(fa:fa-camera-retro Principle Component Analysis [PCA])
 ```
 
 ### COURSE 1
