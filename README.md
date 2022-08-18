@@ -69,7 +69,7 @@ At the end of this course you will have an intuitive understanding of vectors an
 
 This course offers a brief introduction to the multivariate calculus required to build many common machine learning techniques. We start at the very beginning with a refresher on the “rise over run” formulation of a slope, before converting this to the formal definition of the gradient of a function. We then start to build up a set of tools for making calculus easier and faster. Next, we learn how to calculate vectors that point up hill on multidimensional surfaces and even put this into action using an interactive game. We take a look at how we can use calculus to build approximations to functions, as well as helping us to quantify how accurate we should expect those approximations to be. We also spend some time talking about where calculus comes up in the training of neural networks, before finally showing you how it is applied in linear regression models. This course is intended to offer an intuitive understanding of calculus, as well as the language necessary to look concepts up yourselves when you get stuck. Hopefully, without going into too much detail, you’ll still come away with the confidence to dive into some more focused machine learning courses in future.
 
-* [Mathematics for Machine Learning: Multivariate Calculus]()
+* [Mathematics for Machine Learning: Multivariate Calculus](https://github.com/shantanu1109/Coursera-Imperial-College-of-London-Mathematics-For-Machine-Learning-Specialization/tree/main/Course-2-Mathematics%20for%20Machine%20Learning:%20Multivariate%20Calculus)
 
 ### COURSE 3
 ### Mathematics for Machine Learning: PCA
