@@ -62,7 +62,7 @@ Since we're aiming at data-driven applications, we'll be implementing some of th
 
 At the end of this course you will have an intuitive understanding of vectors and matrices that will help you bridge the gap into linear algebra problems, and how to apply these concepts to machine learning.
 
-* [Mathematics for Machine Learning: Linear Algebra]()
+* [Mathematics for Machine Learning: Linear Algebra](https://github.com/shantanu1109/Coursera-Imperial-College-of-London-Mathematics-For-Machine-Learning-Specialization/tree/main/Course-1-Mathematics%20for%20Machine%20Learning:%20Linear%20Algebra)
 
 ### COURSE 2
 ### Mathematics for Machine Learning: Multivariate Calculus
