@@ -73,6 +73,7 @@ This course offers a brief introduction to the multivariate calculus required to
 
 ### COURSE 3
 ### Mathematics for Machine Learning: PCA
+
 This intermediate-level course introduces the mathematical foundations to derive Principal Component Analysis (PCA), a fundamental dimensionality reduction technique. We'll cover some basic statistics of data sets, such as mean values and variances, we'll compute distances and angles between vectors using inner products and derive orthogonal projections of data onto lower-dimensional subspaces. Using all these tools, we'll then derive PCA as a method that minimizes the average squared reconstruction error between data points and their reconstruction.
 
 At the end of this course, you'll be familiar with important mathematical concepts and you can implement PCA all by yourself. If you’re struggling, you'll find a set of jupyter notebooks that will allow you to explore properties of the techniques and walk you through what you need to do to get on track. If you are already an expert, this course may refresh some of your knowledge.
@@ -83,24 +84,23 @@ The lectures, examples and exercises require:
 3. Basic background in multivariate calculus (e.g., partial derivatives, basic optimization)
 4. Basic knowledge in python programming and numpy
 
-
 * [Mathematics for Machine Learning: PCA](https://github.com/shantanu1109/Coursera-Imperial-College-of-London-Mathematics-For-Machine-Learning-Specialization/tree/main/Course-3-Mathematics%20for%20Machine%20Learning:%20PCA)
 
 -------------------------------------------------------------------------------------------------------------
 
 ## Certificate
 
-1. [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/account/accomplishments/verify/77SF7ZRAHG2S)
-2. [Advanced Learning Algorithms](https://www.coursera.org/account/accomplishments/verify/EYY44BAYYAGU)
-3. [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/account/accomplishments/verify/DZGJW22HB7VZ)
+1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/verify/77SF7ZRAHG2S)
+2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/account/accomplishments/verify/EYY44BAYYAGU)
+3. [Mathematics for Machine Learning: PCA](https://www.coursera.org/account/accomplishments/verify/DZGJW22HB7VZ)
 4. [Machine Learning Specialization (Final Certificate)](https://www.coursera.org/account/accomplishments/specialization/8F3W88UHF7CL)
 
 --------------------------------------------------------------------------------------------------------------
 
 ## References
-1. [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
-2. [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
-3. [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
+1. [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
+2. [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
+3. [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
 
 ----------------------------------------------------------------------------------------------------------------
 
